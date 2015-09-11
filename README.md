@@ -17,6 +17,9 @@ Download Apps:
 - Rdio
 - Clipboard manager?
 
+Download Fonts:
+- Font list
+
 Settings:
 - System Preferences > Sharing to change computer name
 

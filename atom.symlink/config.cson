@@ -1,0 +1,9 @@
+"*":
+  "exception-reporting":
+    userId: "5247f7d4-8bba-2a1a-599d-7b0bf961cf87"
+  welcome:
+    showOnStartup: false
+  "one-dark-ui": {}
+  core: {}
+  editor:
+    invisibles: {}
