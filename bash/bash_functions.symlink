@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Create new directories and enter the first one
+mkd() {
+  [ -n "$*" ] && mkdir -p "$@" && cd "$@"
+}

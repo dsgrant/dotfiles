@@ -1,0 +1,12 @@
+# Talk to the hand
+
+.DS_Store
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+.localized
+
+npm-debug.log
+/npm-debug.log
+/node_modules

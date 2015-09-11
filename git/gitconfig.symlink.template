@@ -1,0 +1,37 @@
+[alias]
+  c = commit -am
+  co = checkout
+
+[user]
+  name = USER_NAME
+  email = USER_EMAIL
+
+[credential]
+  helper = osxkeychain
+
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  ui = true
+
+[core]
+  editor = atom
+  excludesfile = ~/.gitignore
+
+[url "git@github.com:"]
+	insteadOf = "gh:"
+	insteadOf = "git://github.com"
+  pushInsteadOf = "gh:"
+	pushInsteadOf = "github:"
+	pushInsteadOf = "git://github.com/"
+  pushInsteadOf = "https://github.com/"
+
+[url "git@gist.github.com:"]
+	insteadOf = "gist:"
+	pushInsteadOf = "gist:"
+	pushInsteadOf = "git://gist.github.com/"
+	pushInsteadOf = "https://gist.github.com/"
+
+[push]
+  default = simple
