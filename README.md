@@ -16,6 +16,7 @@ Download Apps:
 - Adobe CC
 - Rdio
 - Clipboard manager?
+
 Settings:
 - System Preferences > Sharing to change computer name
 
