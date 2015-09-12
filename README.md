@@ -2,10 +2,12 @@
 
 ## To Do
 - Atom settings
+- Set up removal of .atom directory when symlinking if it exists?
 - iTerm2 settings
 - Bash Prompt settings
 
 ### To Run
+This should be run first
 `source brand-spankin-new.sh`
 
 ### Manual
