@@ -29,6 +29,9 @@ brew install caskroom/cask/brew-cask
 # Coffee Buzz
 brew cask install keepingyouawake
 
+# Clippy
+brew cask install clipmenu
+
 # Quicklook all the things
 brew cask install quicklook-json
 brew cask install qlcolorcode

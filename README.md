@@ -2,9 +2,7 @@
 
 ## To Do
 - Atom settings
-- Set up removal of .atom directory when symlinking if it exists?
 - iTerm2 settings
-- Bash Prompt settings
 
 ### To Run
 This should be run first
@@ -17,7 +15,10 @@ Download Apps:
 - Slack
 - Adobe CC
 - Rdio
-- Clipboard manager?
+
+### Add to run on startup
+ClipMenu
+KeepingYouAwake
 
 Download Fonts:
 - Font list
