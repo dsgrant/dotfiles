@@ -50,14 +50,14 @@ set_prompts() {
     bold=$(tput bold)
     reset=$(tput sgr0)
     black=$(tput setaf 0)
-    blue=$(tput setaf 33)
-    cyan=$(tput setaf 37)
-    green=$(tput setaf 64)
-    orange=$(tput setaf 166)
-    purple=$(tput setaf 125)
-    red=$(tput setaf 124)
-    white=$(tput setaf 15)
-    yellow=$(tput setaf 136)
+    blue=$(tput setaf 4)
+    cyan=$(tput setaf 6)
+    green=$(tput setaf 2)
+    orange=$(tput setaf 3)
+    purple=$(tput setaf 5)
+    red=$(tput setaf 1)
+    white=$(tput setaf 7)
+    yellow=$(tput setaf 3)
   else
     bold=''
     reset="\e[0m"

@@ -21,7 +21,7 @@ ClipMenu
 KeepingYouAwake
 
 Download Fonts:
-- Font list
+- Font list, casks?
 
 Settings:
 - System Preferences > Sharing to change computer name

@@ -39,5 +39,9 @@ brew cask install qlstephen
 brew cask install betterzipql
 brew cask install webpquicklook
 
+# Fonts through brew!
+brew tap caskroom/fonts
+brew cask install font-source-code-pro
+
 # Throw out bottles
 brew cleanup

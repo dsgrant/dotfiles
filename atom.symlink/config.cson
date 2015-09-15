@@ -7,3 +7,7 @@
   core: {}
   editor:
     invisibles: {}
+    showInvisibles: true
+    showIndentGuide: true
+    tabType: "soft"
+    fontFamily: "Source Code Pro"
