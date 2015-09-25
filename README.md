@@ -2,6 +2,8 @@
 
 ## To Do
 - Atom settings
+  - Star packages
+    - apm stars --install
 - iTerm2 settings
 
 ### To Run
@@ -16,7 +18,7 @@ Download Apps:
 - Adobe CC
 - Rdio
 
-### Add to run on startup
+### Add to run on user login
 ClipMenu
 KeepingYouAwake
 
