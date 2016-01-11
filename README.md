@@ -5,6 +5,7 @@
   - Star packages
     - apm stars --install
 - iTerm2 settings
+- NPM Modules
 
 ### To Run
 This should be run first
@@ -16,7 +17,7 @@ Download Apps:
 - iTerm2
 - Slack
 - Adobe CC
-- Rdio
+- ~~Rdio~~ :( Spotify
 
 ### Add to run on user login
 ClipMenu
